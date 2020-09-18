@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chatapp-8fa60": {
+      "hosting": {
+        "app": [
+          "chatapp-8fa60"
+        ]
+      }
+    }
+  }
+}
